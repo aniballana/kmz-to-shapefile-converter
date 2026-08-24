@@ -1,4 +1,4 @@
-# KMZ to Shapefile Converter (Multi-layer & Topology Repair)
+#  Conversor de arquivos KMZ para Shapefile 
 
 Este projeto automatiza a conversão de arquivos KMZ (KML compactados) para o formato ESRI Shapefile usando Python.
 
